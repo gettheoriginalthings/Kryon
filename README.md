@@ -34,6 +34,9 @@ Email: 3077686006@qq.com
 * [Nassim Haramein-《The Connected Universe互连宇宙》纪录片](https://www.bilibili.com/video/av20714257)
 * [克里昂信息汇总](http://mp.weixin.qq.com/s?__biz=MzIxODAxMDY1Ng==&mid=2650975511&idx=1&sn=2ae0a0b3bd4edcae0592e00c0650e40c&chksm=8c070858bb70814e81bdaee227489edf0265e022e0eeda45c6942d59c965502a787cd3bc1fdc&token=1586172304&lang=zh_CN#rd)
 
+# 欢迎关注我的订阅号：
+![订阅号](订阅号二维码.jpg)
+
 # Donation
 My PayPal: ccpp123@sina.com
 
