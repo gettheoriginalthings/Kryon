@@ -1,9 +1,0 @@
-F:\C#\光谱分析\bin\x64\Release\光谱分析.exe.config
-F:\C#\光谱分析\bin\x64\Release\光谱分析.exe
-F:\C#\光谱分析\bin\x64\Release\光谱分析.pdb
-F:\C#\光谱分析\obj\x64\Release\光谱分析.csprojAssemblyReference.cache
-F:\C#\光谱分析\obj\x64\Release\光谱分析.Form1.resources
-F:\C#\光谱分析\obj\x64\Release\光谱分析.Properties.Resources.resources
-F:\C#\光谱分析\obj\x64\Release\光谱分析.csproj.GenerateResource.cache
-F:\C#\光谱分析\obj\x64\Release\光谱分析.exe
-F:\C#\光谱分析\obj\x64\Release\光谱分析.pdb
