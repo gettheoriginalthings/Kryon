@@ -1,7 +1,5 @@
 `timescale 1ns / 1ps
 //This code comes from: https://github.com/becomequantum/kryon
-//下面这篇文章介绍了FPGA图像处理基本技巧,The following article talks about FPGA Image Process,it's in Chinese, but Google translate is good enough:
-//http://blog.sina.com.cn/s/blog_539ee1ae0102xtnz.html
 //本模块是3x3,8位灰度图像算子的示例,这样的算子可以做很多事情.比如滤波,平滑,边缘检测等,也可用于传感器输出Raw数据的Bayer插值.
 //This module is an example of the 3x3, 8 bit gray image operator. Operators like this can do a lot of things, such as filtering, smoothing, edge detection, etc., and can also be used for Bayer interpolation of Raw data from image sensor output.
 //以下参数可根据需要修改 The following parameters can be modified as required

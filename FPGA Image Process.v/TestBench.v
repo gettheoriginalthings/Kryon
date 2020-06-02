@@ -4,7 +4,7 @@
 `define S `W * `H * 3            //图像数据的总字节数,由于是RGB数据,所以*3.                 Total bytes of the image
 //This code comes from: https://github.com/becomequantum/kryon
 //下面这篇文章介绍了FPGA图像处理基本技巧,The following article talks about FPGA Image Process,it's in Chinese, but Google translate is good enough:
-//http://blog.sina.com.cn/s/blog_539ee1ae0102xtnz.html
+//https://zhuanlan.zhihu.com/p/38946857
 //"tb1.txt"是文本格式的图像数据文件,里面存放的像素点的RGB值,你需要把你的图像文件转为文本格式做为仿真输入
 //"tb1.txt" is the RGB value of the pixel data stored in the txt file. You need to convert your image file into text format for the simulation input.
 module TestBench(

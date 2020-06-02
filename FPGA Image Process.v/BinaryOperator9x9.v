@@ -1,7 +1,5 @@
 `timescale 1ns / 1ps
 //This code comes from: https://github.com/becomequantum/kryon
-//下面这篇文章介绍了FPGA图像处理基本技巧,The following article talks about FPGA Image Process,it's in Chinese, but Google translate is good enough:
-//http://blog.sina.com.cn/s/blog_539ee1ae0102xtnz.html
 //本模块是9x9二值图像算子的示例,二值算子主要用作图像形态学操作.二值算子可以弄的比较大,能实现一些简单的形状特征识别,目标大小识别等功能
 //This module is an example of the 9x9 binary image operator. The binary operator is mainly used in image morphological operations. 
 //The binary operator's size can be made very large, and can realize some simple functions such as: shape feature recognition, shape size recognition and so on.

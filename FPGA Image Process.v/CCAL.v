@@ -1,7 +1,5 @@
 `timescale 1ns / 1ps
 //This code comes from: https://github.com/becomequantum/kryon
-//下面这篇文章介绍了该算法的思路,The following article introduces the idea of the algorithm,it's in Chinese, but Google translate is good enough:
-//http://blog.sina.com.cn/s/blog_539ee1ae0102xtod.html
 //本模块是连通域识别并行流水线法的实现, 你可能需要参考该算法python版代码CCAL.py来理解本.v代码
 //This module implements Parallel Pipeline Method of Connected Component Analysis-Labeling, To better understand this .v code, you may refer to the python version: CCAL.py
 //本代码只进行过少量仿真测试,不能保证完全没有问题. This code has only conducted a small number of simulation tests, which can not guarantee that there is no bug.

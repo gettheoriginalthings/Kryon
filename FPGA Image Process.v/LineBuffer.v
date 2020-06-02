@@ -1,7 +1,7 @@
 `timescale 1ns / 1ps
 //This code comes from: https://github.com/becomequantum/kryon
 //下面这篇文章介绍了FPGA图像处理基本技巧,The following article talks about FPGA Image Process,it's in Chinese, but Google translate is good enough:
-//http://blog.sina.com.cn/s/blog_539ee1ae0102xtnz.html
+//https://zhuanlan.zhihu.com/p/38946857
 //该模块用来控制图像数据的缓存. 输入图像数据, 输出OPERATOR_HEIGHT行算子数据, 并控制Block Ram的读写. 乃核心模块.
 //This module is used to control the image data's line buffer. It inputs image data, output OPERATOR_HEIGHT lines of operator data, control Block Ram's read and write. This is the core module.
 module LineBuffer
