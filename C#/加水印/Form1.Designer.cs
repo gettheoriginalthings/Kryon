@@ -91,6 +91,10 @@
             this.适合radioButton = new System.Windows.Forms.RadioButton();
             this.图片tab = new System.Windows.Forms.TabControl();
             this.说明tabPage = new System.Windows.Forms.TabPage();
+            this.代码地址linkLabel = new System.Windows.Forms.LinkLabel();
+            this.说明label9 = new System.Windows.Forms.Label();
+            this.说明label8 = new System.Windows.Forms.Label();
+            this.说明label7 = new System.Windows.Forms.Label();
             this.说明label6 = new System.Windows.Forms.Label();
             this.说明label5 = new System.Windows.Forms.Label();
             this.说明label4 = new System.Windows.Forms.Label();
@@ -104,10 +108,6 @@
             this.图印右键菜单 = new System.Windows.Forms.ContextMenuStrip(this.components);
             this.变透明ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.取消透明ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.说明label7 = new System.Windows.Forms.Label();
-            this.说明label8 = new System.Windows.Forms.Label();
-            this.说明label9 = new System.Windows.Forms.Label();
-            this.代码地址linkLabel = new System.Windows.Forms.LinkLabel();
             this.菜单栏1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.分隔板1)).BeginInit();
             this.分隔板1.Panel1.SuspendLayout();
@@ -940,6 +940,48 @@
             this.说明tabPage.Text = "说明";
             this.说明tabPage.UseVisualStyleBackColor = true;
             // 
+            // 代码地址linkLabel
+            // 
+            this.代码地址linkLabel.AutoSize = true;
+            this.代码地址linkLabel.Font = new System.Drawing.Font("宋体", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.代码地址linkLabel.Location = new System.Drawing.Point(69, 2);
+            this.代码地址linkLabel.Name = "代码地址linkLabel";
+            this.代码地址linkLabel.Size = new System.Drawing.Size(329, 14);
+            this.代码地址linkLabel.TabIndex = 11;
+            this.代码地址linkLabel.TabStop = true;
+            this.代码地址linkLabel.Text = "代码在：https://github.com/becomequantum/Kryon";
+            this.代码地址linkLabel.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.代码地址linkLabel_LinkClicked);
+            // 
+            // 说明label9
+            // 
+            this.说明label9.AutoSize = true;
+            this.说明label9.Font = new System.Drawing.Font("宋体", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.说明label9.Location = new System.Drawing.Point(-1, 218);
+            this.说明label9.Name = "说明label9";
+            this.说明label9.Size = new System.Drawing.Size(721, 14);
+            this.说明label9.TabIndex = 9;
+            this.说明label9.Text = "按住鼠标右键可在图片上画框，框画完后会弹出右键菜单，在菜单中可选把刚才选中的区域变为透明或是取消透明。";
+            // 
+            // 说明label8
+            // 
+            this.说明label8.AutoSize = true;
+            this.说明label8.Font = new System.Drawing.Font("宋体", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.说明label8.Location = new System.Drawing.Point(-1, 195);
+            this.说明label8.Name = "说明label8";
+            this.说明label8.Size = new System.Drawing.Size(1015, 28);
+            this.说明label8.TabIndex = 8;
+            this.说明label8.Text = "按住Ctrl键的同时对图片背景出按住鼠标左键，软件会逐步把周围的背景变为透明。如果过头了请按键盘上的\"退格\"键取消前一次的操作.看不出啥变化就多按几次.\r\n\r\n";
+            // 
+            // 说明label7
+            // 
+            this.说明label7.AutoSize = true;
+            this.说明label7.Font = new System.Drawing.Font("宋体", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.说明label7.Location = new System.Drawing.Point(-1, 172);
+            this.说明label7.Name = "说明label7";
+            this.说明label7.Size = new System.Drawing.Size(1022, 14);
+            this.说明label7.TabIndex = 7;
+            this.说明label7.Text = "点\"图片水印\"页上的\"选水印图\"按钮可打开一幅图片,此图片会被当作水印叠加在你打开的要加水印的图片上。在这打开的图片有背景色变透明功能，具体操作如下：";
+            // 
             // 说明label6
             // 
             this.说明label6.AutoSize = true;
@@ -1048,48 +1090,6 @@
             this.取消透明ToolStripMenuItem.Name = "取消透明ToolStripMenuItem";
             this.取消透明ToolStripMenuItem.Size = new System.Drawing.Size(124, 22);
             this.取消透明ToolStripMenuItem.Text = "取消透明";
-            // 
-            // 说明label7
-            // 
-            this.说明label7.AutoSize = true;
-            this.说明label7.Font = new System.Drawing.Font("宋体", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.说明label7.Location = new System.Drawing.Point(-1, 172);
-            this.说明label7.Name = "说明label7";
-            this.说明label7.Size = new System.Drawing.Size(1022, 14);
-            this.说明label7.TabIndex = 7;
-            this.说明label7.Text = "点\"图片水印\"页上的\"选水印图\"按钮可打开一幅图片,此图片会被当作水印叠加在你打开的要加水印的图片上。在这打开的图片有背景色变透明功能，具体操作如下：";
-            // 
-            // 说明label8
-            // 
-            this.说明label8.AutoSize = true;
-            this.说明label8.Font = new System.Drawing.Font("宋体", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.说明label8.Location = new System.Drawing.Point(-1, 195);
-            this.说明label8.Name = "说明label8";
-            this.说明label8.Size = new System.Drawing.Size(833, 14);
-            this.说明label8.TabIndex = 8;
-            this.说明label8.Text = "按住Ctrl键的同时对图片背景出按住鼠标左键，软件会逐步把周围的背景变为透明。如果过头了仅单击鼠标右键一次即可往回退一次。";
-            // 
-            // 说明label9
-            // 
-            this.说明label9.AutoSize = true;
-            this.说明label9.Font = new System.Drawing.Font("宋体", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.说明label9.Location = new System.Drawing.Point(-1, 218);
-            this.说明label9.Name = "说明label9";
-            this.说明label9.Size = new System.Drawing.Size(721, 14);
-            this.说明label9.TabIndex = 9;
-            this.说明label9.Text = "按住鼠标右键可在图片上画框，框画完后会弹出右键菜单，在菜单中可选把刚才选中的区域变为透明或是取消透明。";
-            // 
-            // 代码地址linkLabel
-            // 
-            this.代码地址linkLabel.AutoSize = true;
-            this.代码地址linkLabel.Font = new System.Drawing.Font("宋体", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.代码地址linkLabel.Location = new System.Drawing.Point(69, 2);
-            this.代码地址linkLabel.Name = "代码地址linkLabel";
-            this.代码地址linkLabel.Size = new System.Drawing.Size(329, 14);
-            this.代码地址linkLabel.TabIndex = 11;
-            this.代码地址linkLabel.TabStop = true;
-            this.代码地址linkLabel.Text = "代码在：https://github.com/becomequantum/Kryon";
-            this.代码地址linkLabel.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.代码地址linkLabel_LinkClicked);
             // 
             // 加水印
             // 
