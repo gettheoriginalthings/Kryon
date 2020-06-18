@@ -10,8 +10,7 @@ namespace 加水印 {
     class 图像 {
         private const int 透 = 3, 红 = 2, 绿 = 1, 蓝 = 0; //Bitmap位图数据中,蓝色Blue的值存在低地址上
         static uint 种子 = 1111;
-        static Point 右 = new Point(1, 0), 左 = new Point(-1, 0), 下 = new Point(0, 1), 右下 = new Point(1, 1), 左下 = new Point(-1, 1), 左上 = new Point(-1, -1), 上 = new Point(0, -1), 右上 = new Point(1, -1);
-        public static Point[] 八邻域一 = new Point[] { 右, 左, 下, 右下, 左下, 左上, 上, 右上 };
+        
         public static void 原图刷新图24(Bitmap 原图, Bitmap 新图) {
             if (原图.Width != 新图.Width || 原图.Height != 新图.Height) return;
             Rectangle 选图框 = new Rectangle(0, 0, 原图.Width, 原图.Height);
@@ -52,7 +51,6 @@ namespace 加水印 {
                         新图指针 += 4;
                     }
                     原图指针 += 原图数据.Stride - 原图数据.Width * 3;
-                    //新图指针 += 新图数据.Stride - 新图数据.Width * 3;
                 }
             }
             原图.UnlockBits(原图数据);
@@ -109,7 +107,6 @@ namespace 加水印 {
             框.Y = 框.Y < 0 ? 0 : 框.Y;
             unsafe {
                 byte* 位图指针 = (byte*)(位图数据.Scan0);
-                //位图指针 += 框.Y * 位图数据.Stride;
                 for (int 列 = 框.Y; 列 < 位图数据.Height && 列 <= 框.Y + 框.Height; 列++) {
                     byte* 指针 = 位图指针 + 列 * 位图数据.Stride + 框.X * 4;
                     for (int 行 = 框.X; 行 < 位图数据.Width && 行 <= 框.X + 框.Width; 行++, 指针 += 4) 
