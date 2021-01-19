@@ -24,6 +24,7 @@ My Photo Album: www.eyeem.com/becomequantum
 
 Email: 3077686006@qq.com
 # 文章推荐
+* [**原创文章目录**](http://mp.weixin.qq.com/s?__biz=MzIxODAxMDY1Ng==&mid=2650976255&idx=1&sn=ee0f8a90ed83ca7cf3cb1fe19d897236&chksm=8c070ab0bb7083a678dd9b39fb583f2a2eb054c3a3631528f0f9fbfe79aca1ec9ceae1109835&scene=21#wechat_redirect)
 * [**渡过小冰期的科技已经有了**](http://mp.weixin.qq.com/s?__biz=MzIxODAxMDY1Ng==&mid=2650976222&idx=1&sn=d5993b960a277597d5a7d804f4999385&chksm=8c070a91bb70838761d28d19f8b4d80798c7fd9d7b4e5299fe696807e7f9e6b760de8923b42a&scene=21#wechat_redirect "渡过小冰期的科技已经有了")
 * [简单的解释**什么是意识层次的提升和分裂？什么是扬升？**](https://mp.weixin.qq.com/s/pBZ0zBG-dXl5xoTQQVNn-A)
 * [**《揭露宇宙》观后感**](https://mp.weixin.qq.com/s?__biz=MzIxODAxMDY1Ng==&mid=2650975557&idx=1&sn=99eb8b213507926af6ebc29104f76ae9&chksm=8c07080abb70811cba2ba80a97f9e417f231f6f444296d26590626da9c21e8de107f10d6c223&mpshare=1&scene=1&srcid=&key=96e286bf1fa90d3e94d8dbb44cc642dba6b3fdf27a3a31be1881c539a7e937760563b8e42fe5c5670ee7323d5a0928681879bab51cee913dc80473e2a01f05d51f796294cd4bfad26f8c163aaeb81b1e&ascene=1&uin=MjkwNDEzNzUzNQ%3D%3D&devicetype=Windows+7&version=62060739&lang=zh_CN&pass_ticket=LgfUliy0e8SiG2fE6TwEB4Dvt87dhnUAOm%2BGdF2DmSyh41lISnyXmhem9l3Jk467)
