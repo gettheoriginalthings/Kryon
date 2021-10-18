@@ -20,9 +20,8 @@ I have writen two articles about these codes, it's in 中文，but google transl
 
 "**FPGA Ethernet Mac.py**" is a FPGA MAC and a simple GUI written in python use [MyHDL](http://docs.myhdl.org/en/stable/). It can run on ALINX黑金 AX516 Dev Board. PC can receive Raw Video transmited from FPGA through GBE.
 
-My Photo Album: www.eyeem.com/becomequantum
 
-Email: 3077686006@qq.com
+Email: 94493824@qq.com
 # B站频道：
 * [无限次元B站首页！](https://space.bilibili.com/2139404925)
 * [如何提升学习能力](https://www.bilibili.com/video/BV1BL4y187xP)
@@ -32,11 +31,6 @@ Email: 3077686006@qq.com
 
 # Youtube Chanel：[BecomeQuantum](https://www.youtube.com/channel/UCvJH-Cp7SypXvJ-e0KSOo1A)
 
-# 欢迎关注我的订阅号：
-![订阅号](订阅号二维码.jpg)
-
-# Donation
-My PayPal: ccpp123@sina.com
 
 Wechat:
 
