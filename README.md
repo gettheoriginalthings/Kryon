@@ -29,6 +29,8 @@ Email: 94493824@qq.com
 * [至简哲学七：如何破康德的二律背反？如何在哲学中除掉上帝？](https://www.bilibili.com/video/BV1zh411W7JF)
 * [训练恢复腹式呼吸的方法，站桩、打坐姿势要领！能减肥瘦腰！](https://www.bilibili.com/video/BV1e3411q7oc)
 
+* [反思神经网络五：从图像上理解概率小信息量大，人工和真实视觉神经网络到底有啥不同？](https://www.bilibili.com/video/BV12Q4y1X74G)
+
 # Youtube Chanel：[BecomeQuantum](https://www.youtube.com/channel/UCvJH-Cp7SypXvJ-e0KSOo1A)
 
 
