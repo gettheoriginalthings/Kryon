@@ -4,6 +4,7 @@
 CCAL.v里面的几个Ram在生成时**需要把Ram的初值初始化为零**。
 * Before run simulation, put the 'tb1.txt' to the right location, and you will find output .txt files in that right location.
 * "RGBtoHSI" contains the verilog code for RGB to HSI convertion, the result is the same as in Winows Paint Edit Colors.
+* 连通域识别的代码被删掉了，这版代码复杂，功能也有点小问题，因为受到FPGA实现限制，所以我不分享了，以后有更好的代码再说。
 
 * [FPGA Image Processing basic skills - FPGA图像处理基本技巧](https://www.bilibili.com/read/cv13109706)
 * [反思神经网络五：从图像上理解概率小信息量大，人工和真实视觉神经网络到底有啥不同？](https://www.bilibili.com/video/BV12Q4y1X74G)
